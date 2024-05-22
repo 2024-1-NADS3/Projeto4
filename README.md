@@ -14,7 +14,7 @@
 ## Descrição
 
 <div align="center">
-  <img src="Imagens/capa.png">
+  <img src="imagens/capa.png">
   <p>Água Ponto by Tropa do Fura Bloqueio</p>
 </div>
 
