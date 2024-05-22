@@ -1,7 +1,7 @@
 # FECAP - Fundação de Comércio Álvares Penteado
 
 <div align="center">
-  <img src="Imagens/logofecap.png">
+  <img src="imagens/logofecap.png">
 </div>
 
 # Água Ponto
